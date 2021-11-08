@@ -1,6 +1,6 @@
 <h1 align="center"> Blue EdTech - Projeto 2 - Jo-Ken-Po </h1>
 
-Jogo com propósito de utilizar o conhecimento em repetições. Foi utilizado como o exemplo o JO-KEN-PO
+<p align="center"> Jogo com propósito de utilizar o conhecimento em repetições. Foi utilizado como o exemplo o JO-KEN-PO </p>
 
 <div align="center"><img alingn="center" height="350" width="500" src="https://github.com/LeandroKosta/Blue-EdTech-Projeto-2-Jo-Ken-Po/blob/main/public/img/Capa.jpg" alt=""></div>
 
