@@ -1,6 +1,6 @@
 <h1 align="center"> Blue EdTech - Projeto 2 - Jo-Ken-Po </h1>
 
-<p align="center"> Jogo com propósito de utilizar o conhecimento em repetições. Foi utilizado como o exemplo o JO-KEN-PO </p>
+<p align="center"> Foi desenvolvido um programa que jogue pedra, papel e tesoura (Jokenpô) com você. O programa permite decidir o número de rodadas, decide de forma aleatória a decisão do computador, apresenta no final quantas rodadas cada jogador ganhou e determina quem foi o grande campeão. </p>
 
 <div align="center"><img alingn="center" height="350" width="500" src="https://github.com/LeandroKosta/Blue-EdTech-Projeto-2-Jo-Ken-Po/blob/main/public/img/Capa.jpg" alt=""></div>
 
