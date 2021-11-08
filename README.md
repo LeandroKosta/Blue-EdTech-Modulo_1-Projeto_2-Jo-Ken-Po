@@ -6,7 +6,10 @@
 
 <h3 align="center"> 🚀 Tecnologias utilizadas </h3>
 
-<div align="center"> <img alingn="center" alt="Lk-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></div>
+<div align="center"> 
+  <img alingn="center" alt="Lk-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alingn="center" alt="Lk-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+</div>
 
 </br>
 
