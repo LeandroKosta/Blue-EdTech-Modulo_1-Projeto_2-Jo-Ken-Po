@@ -2,7 +2,7 @@
 
 Jogo com propósito de utilizar o conhecimento em repetições. Foi utilizado como o exemplo o JO-KEN-PO
 
-<div align="center"><img alingn="center" height="350" width="500" src="https://raw.githubusercontent.com/LeandroKosta/Blue-EdTech-Projeto-1-Sherlock-Holmes/main/public/img/Imagem-Desmostracao.png" alt=""></div>
+<div align="center"><img alingn="center" height="350" width="500" src="https://github.com/LeandroKosta/Blue-EdTech-Projeto-2-Jo-Ken-Po/blob/main/public/img/Capa.jpg" alt=""></div>
 
 <h3 align="center"> 🚀 Tecnologias utilizadas </h3>
 
@@ -10,4 +10,4 @@ Jogo com propósito de utilizar o conhecimento em repetições. Foi utilizado co
 
 </br>
 
-<div align="center"><img alingn="center" height="500" width="800" src="https://raw.githubusercontent.com/LeandroKosta/Blue-EdTech-Projeto-1-Sherlock-Holmes/main/public/img/Certificado%20Projeto%20Sherlock.jpg" alt=""></div>
+<div align="center"><img alingn="center" height="500" width="800" src="https://github.com/LeandroKosta/Blue-EdTech-Projeto-2-Jo-Ken-Po/blob/main/public/img/Certificado%20Projeto%20Jokenpo.jpg" alt=""></div>
